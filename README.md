@@ -21,11 +21,13 @@ Users start with a research chat powered by Claude — surfacing real market dat
 The output isn't a fill-in-the-blank document. It's a coherent narrative built from your actual business context.
 
 ---
+<img width="1524" height="1260" alt="image" src="https://github.com/user-attachments/assets/ef2f83f3-ffb7-437d-ab13-65c6118b3e8b" />
 
 ## Core Features
 
 **AI Research Assistant**
 An interactive chat that guides users through 10 structured research stages before any plan is generated. Performs mandatory web searches at every step — surfacing real competitor names, local market data, and cost benchmarks — then feeds that structured context directly into generation. Cold-start generation produces generic output; this doesn't.
+<img width="1566" height="1258" alt="image" src="https://github.com/user-attachments/assets/89d568e5-6b9d-4e55-b103-a6ea5c3f6e40" />
 
 **Dual-Model Generation Engine**
 The plan generates using two Claude models running in parallel, matched by section type:
